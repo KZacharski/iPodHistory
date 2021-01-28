@@ -52,4 +52,28 @@ function classic() {
     location.href = 'thirdgen.html'
 } function shufflefourth() {
     location.href = 'fourthgen.html'
-} 
+} function touchfirst() {
+    location.href = 'firstgen.html'
+} function touchsecond() {
+    location.href = 'secondgen.html'
+} function touchthird() {
+    location.href = 'thirdgen.html'
+} function touchfourth() {
+    location.href = 'fourthgen.html'
+} function touchfifth() {
+    location.href = 'fifthgen.html'
+} function touchsixth() {
+    location.href = 'sixthgen.html'
+} function touchseventh() {
+    location.href = 'seventhgen.html'
+} function backmini() {
+    location.href = 'index.html'
+} function minifirst() {
+    location.href = 'firstgen.html'
+} function minisecond() {
+    location.href = 'secondgen.html'
+} function backspecial() {
+    location.href = 'index.html'
+} function specialfirst() {
+    location.href = 'u2pod.html'
+}
