@@ -78,4 +78,8 @@ function classic() {
     location.href = 'u2pod.html'
 } function backtouch() {
     location.href = 'index.html'
+} function mini() {
+    location.href = 'ipodmini/index.html'
+} function special() {
+    location.href = 'specialedition/index.html'
 }
