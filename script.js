@@ -76,4 +76,6 @@ function classic() {
     location.href = 'index.html'
 } function specialfirst() {
     location.href = 'u2pod.html'
+} function backtouch() {
+    location.href = 'index.html'
 }
