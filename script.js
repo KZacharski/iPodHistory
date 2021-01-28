@@ -51,11 +51,5 @@ function classic() {
 } function shufflethird() {
     location.href = 'thirdgen.html'
 } function shufflefourth() {
-    loaction.href = 'fourthgen.html'
-} function shufflefifth() {
-    location.href = 'fifthgen.html'
-} function shufflesixth() {
-    location.href = 'sixthgen.html'
-} function shuffleseventh() {
-    location.href = 'seventhgen.html'
-}
+    location.href = 'fourthgen.html'
+} 
