@@ -42,4 +42,20 @@ function classic() {
     location.href = 'seventhgen.html'
 } function nanoeighth() {
     location.href = 'eighthgen.html'
+} function backshuffle() {
+    location.href = 'index.html'
+} function shufflefirst() {
+    location.href = 'firstgen.html'
+} function shufflesecond() {
+    location.href = 'secondgen.html'
+} function shufflethird() {
+    location.href = 'thirdgen.html'
+} function shufflefourth() {
+    loaction.href = 'fourthgen.html'
+} function shufflefifth() {
+    location.href = 'fifthgen.html'
+} function shufflesixth() {
+    location.href = 'sixthgen.html'
+} function shuffleseventh() {
+    location.href = 'seventhgen.html'
 }
