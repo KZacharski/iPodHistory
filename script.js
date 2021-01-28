@@ -26,4 +26,20 @@ function classic() {
     location.href = 'ipodtouch/index.html'
 } function nanofirst() {
     location.href = 'firstgen.html'
+} function backnano() {
+    location.href = 'index.html'
+} function nanosecond() {
+    location.href = 'secondgen.html'
+} function nanothird() {
+    location.href = 'thirdgen.html'
+} function nanofourth() {
+    location.href = 'fourthgen.html'
+} function nanofifth() {
+    location.href = 'fifthgen.html'
+} function nanosixth() {
+    location.href = 'sixthgen.html'
+} function nanoseventh() {
+    location.href = 'seventhgen.html'
+} function nanoeighth() {
+    location.href = 'eighthgen.html'
 }
